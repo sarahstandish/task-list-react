@@ -1,0 +1,14 @@
+.NewTaskForm {
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+.valid {
+    background-color: lightgreen;
+    border: 1px solid lightgreen
+}
+
+.invalid {
+    background-color: lightpink;
+    border: 1px solid lightpink
+}
